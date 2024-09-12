@@ -1,6 +1,6 @@
 export const personalData = {
   name: "sahiba shahab ",
-  profile: '/profile.png',
+  profile: '/my.png',
   designation: "python developer",
   description: "My name is sahiba shahab. I am a python developer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. . I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'sahibaawan123@gmail.com',

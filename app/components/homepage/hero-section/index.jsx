@@ -72,12 +72,12 @@ function HeroSection() {
 
         {/* Right Section - Image */}
         <div className="flex justify-center lg:justify-end lg:order-2">
-          <Image
-            src="/my.png" // Replace with your image path
-            alt="Profile"
-            width={400}
-            height={400}
-            className="rounded-full shadow-lg"
+        <Image
+            src={personalData.profile}
+            width={300}
+            height={380}
+            alt="profile image"
+            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-150 cursor-pointer"
           />
         </div>
       </div>
