@@ -1,8 +1,8 @@
 export const personalData = {
-  name: "sahiba shahab ",
-  profile: '/my.png',
-  designation: "python developer",
-  description: "My name is sahiba shahab. I am a python developer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. . I am available for any kind of job opportunity that suits my skills and interests.",
+  name: "Sahiba Shahab ",
+  profile: '/my1.png',
+  designation: "",
+  description: "My name is sahiba shahab. Quick learner with a self-driven attitude, passionate about exploring new technologies, problem-solving, and ensuring software quality. Skilled in web development, machine learning, and software quality assurance (SQA). Adept at delivering high-performance solutions with a focus on usability and testing.",
   email: 'sahibaawan123@gmail.com',
   phone: '03183806693',
   address: 'karachi , Pakistan',
@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "",
   instagram: '',
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1AKli3iQOMp_ID5kQTcmG1lsBXKaGTF3k/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1zzK4IUpicgTLbp-OaCY1cROE7L1v_zy2/view?usp=sharing"
 }

@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'web development Intern',
+    title: 'web development',
     company: "IDA solution digital markiting agency",
     duration: "(2022-2023)"
 

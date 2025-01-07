@@ -25,7 +25,7 @@ function HeroSection() {
         <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             Hello, <br />
             This is
-            <span className="text-pink-500"> {personalData.name}</span>, I am a
+            <span className="text-pink-500"> {personalData.name}</span>
             <span className="text-[#16f2b3]"> {personalData.designation}</span>.
           </h1>
 
@@ -74,10 +74,10 @@ function HeroSection() {
         <div className="flex justify-center lg:justify-end lg:order-2">
         <Image
             src={personalData.profile}
-            width={280}
-            height={280}
+            width={300}
+            height={300}
             alt="profile image"
-            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-150 cursor-pointer"
+            className="rounded-lg transition-all duration-1000  hover:scale-150 cursor-pointer"
           />
         </div>
       </div>
