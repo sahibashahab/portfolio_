@@ -25,21 +25,12 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: "Plant Detection ",
-        description: "A system that detects plants from images using a Convolutional Neural Network (CNN) model. The system provides information about plant species, their uses, and benefits. A user-friendly frontend is implemented with HTML and CSS for image upload and result display.",
-        tools: [
-            "Python",
-            "TensorFlow", 
-            "Keras",
-            "OpenCV", 
-            "NumPy", 
-            "Pandas", 
-            "Matplotlib", 
-            "Flask"   
-        ],
-        role: "Full-stack Developer",
-        
+        name: "Health Insurance Prediction",
+        description: "A machine learning model that predicts health insurance costs based on user details such as age, BMI, smoking status, and region. The system processes data from a CSV file, performs feature engineering, and applies regression models for cost estimation.",
+        tools: ["Python", "Pandas", "Scikit-learn", "Matplotlib", "Seaborn"],
+        role: "Developer"
     },
+    
     {
         id: 5,
         name: "Library Management System",
@@ -73,7 +64,9 @@ export const projectsData = [
         ],
         role: "Full Stack Developer",
        
-    }
+    },
+    
+    
     
     
     
