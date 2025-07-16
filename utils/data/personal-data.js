@@ -2,7 +2,7 @@ export const personalData = {
   name: "Sahiba Shahab ",
   profile: '/my1.png',
   designation: "",
-  description: "My name is sahiba shahab. Quick learner with a self-driven attitude, passionate about exploring new technologies, problem-solving, and ensuring software quality. Skilled in web development, machine learning, and software quality assurance (SQA). Adept at delivering high-performance solutions with a focus on usability and testing.",
+  description: "Hi! I'm Sahiba Shaahb, a Python and Frontend developer. I enjoy solving problems and creating user-friendly web experiences. Welcome to my portfolio, showcasing my skills and experiences.",
   email: 'sahibaawan123@gmail.com',
   phone: '03183806693',
   address: 'karachi , Pakistan',
