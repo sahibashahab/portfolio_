@@ -2,7 +2,7 @@ export const experiences = [
 
   {
     id: 1,
-    title: "Sothware Engineer ",
+    title: "Software Engineer ",
     company: "rayyanco Business system  ",
     duration: "(June 2025 continue)"
   },
