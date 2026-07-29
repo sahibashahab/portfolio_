@@ -71,15 +71,7 @@ function HeroSection() {
         </div>
 
         {/* Right Section - Image */}
-        <div className="flex justify-center lg:justify-end lg:order-2">
-        <Image
-            src={personalData.profile}
-            width={300}
-            height={300}
-            alt="profile image"
-            className="rounded-lg transition-all duration-1000  hover:scale-150 cursor-pointer"
-          />
-        </div>
+       
       </div>
     </section>
   );
